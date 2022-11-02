@@ -29,12 +29,12 @@ I used python library to find minima as we need to find weights for which errors
 
 
 ## Steps to set up the project
-1. Create a virtualenv and install all dependencies.
+1. Create a virtualenv and install all dependencies using "pip install -r requirements.txt".
 2. If you are using your own dataset, then update parse_data.py.
 3. Create a mysql db on your local machine and update its credentials in db.py.
 4. run "python db.py" to create empty tables.
 5. run "python main.py" to fill db.
-6. run "gui.py" to launch the application
+6. run "python gui.py" to launch the application
 
 For any queries, feel free to contact me @ harshagarwal8055@gmail.com.
 
