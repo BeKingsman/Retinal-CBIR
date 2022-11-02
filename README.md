@@ -3,6 +3,8 @@
 Aim of this project is to detect retinal diseases using CBIR. 
 Given an input image, we will query all similar images in our database and based on their diagnosis, we will predict disease in input image.
 
+Kaggle Dataset Link - https://drive.google.com/drive/folders/1ryhf2_Y-DKaaQ_xWkv5iafFnGoCIP6Zs?usp=share_link
+
 ## Description of all files in this repository
 
 ## 1. parse_data.py
